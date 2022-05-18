@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,sBACF,CAEA,SAEE,qBACF","file":"styles.31bc83d5.css","sourceRoot":"..","sourcesContent":["body {\n  font-family: sans-serif;\n}\n\ntable,\ntd {\n  border: 1px gray solid;\n}\n"]}
